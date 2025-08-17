@@ -5,7 +5,6 @@ interface Post {
     author:string
 }
 import people from "../assets/people.svg"
-import emoji from "../assets/emotion-smile.svg"
 import like from "../assets/like.svg"
 import share from "../assets/share.png"
 import comment from "../assets/comment-text.svg"

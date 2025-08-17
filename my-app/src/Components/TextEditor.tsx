@@ -11,7 +11,6 @@ import bold from '../assets/Vector.svg'
 import quotes from '../assets/quotes.svg'
 import textUnderline from '../assets/text-underline.svg'
 import scrips from '../assets/script.svg'
-import PostCard from "./Postcard";
 
 interface TextEditorProps {
     onSubmit: (content: string) => void;
